@@ -1,0 +1,9 @@
+{
+    "multicallv2": "",
+    "auroraSwap": {
+      "router": "0xA1B1742e9c32C7cAa9726d8204bD5715e3419861",
+      "factory": "0xC5E1DaeC2ad401eBEBdd3E32516d90Ab251A3aA3"
+    },
+    "arbitrage": ""
+  }
+  

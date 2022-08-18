@@ -1,0 +1,6 @@
+Opportunities for improvement:
+1. Monitor events of swaps instead of transactions as swapping from contracts
+   will not be detected
+2. Dynamic minimum profit based on more accurate calc of total gas cost
+3. Keep cache of token0 - token1 pairs
+4. Do all calcs fully off-chain
